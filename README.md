@@ -1,4 +1,3 @@
-# Test Group REPO
+# list-names branch
 
-Contains base index.html.
-Add name to list in list-names branch.
+Add your name to the end fo the list by using the `<li> </li>` tag between the `<ul></ul>` tags
